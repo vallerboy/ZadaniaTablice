@@ -13,6 +13,8 @@ public class Zadanie2 {
 		}
 
 		System.out.println("Najmniejsza liczba to: " + temp);
+		
+		
 	}
 
 }
